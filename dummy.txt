@@ -8,5 +8,5 @@ Seventh line from issue1
 Aardvark
 Eggplant (from add-vegetable)
 Added from Eclipse
-Added from GitHub
+Added more from GitHub
 
